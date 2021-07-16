@@ -1,6 +1,6 @@
 import java.util.*;
 
-class best_album {
+class bestalbum {
     class Song implements Comparable<Song> {
         int id, play;
         String genre;
