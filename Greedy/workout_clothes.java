@@ -1,4 +1,4 @@
-package Full_Navigation;
+package Greedy;
 
 public class workout_clothes {
     public int solution(int n, int[] lost, int[] reserve) {
